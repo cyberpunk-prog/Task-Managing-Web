@@ -15,7 +15,8 @@ Added Constructor and the getters.
 ### 3. Create the React App inside the src
 
 Below are the commands used:
-for other OS: [refer](https://github.com/nodesource/distributions/blob/master/README.md)
+
+for other OS: [refer](https://nodejs.org/en/download/package-manager/)
 
 Using Ubuntu:
 

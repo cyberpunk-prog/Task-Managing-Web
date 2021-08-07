@@ -1,6 +1,13 @@
 # Task-Managing-Web
 This project would cover the full stack development . Using spring boot,postgres as backend and react as frontend.
 
+Requirement for development:
+
+1. maven
+  ` sudo apt install maven`
+
+2. java (this is on version 8)
+
 ## Steps:
 
 ### 1. Create the project spring-boot from [start.spring.io](https://start.spring.io/#!type=maven-project&language=java&platformVersion=2.5.3&packaging=jar&jvmVersion=1.8&groupId=com.tiucompany&artifactId=taskmanager&name=taskmanager&description=Demo%20project%20for%20Spring%20Boot&packageName=com.tiucompany.taskmanager&dependencies=web,data-jdbc,postgresql,flyway): 
